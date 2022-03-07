@@ -109,7 +109,7 @@ h1 {
 	animation: bounce 0.5s linear;
 }
 
-.card-title {
+.card-name {
 	text-transform: capitalize;
 	margin-bottom: 0px;
 	font-size: 32px;
@@ -118,7 +118,7 @@ h1 {
 	z-index: 2;
 }
 
-.card-subtitle {
+.card-description {
 	margin-top: 5px;
 	color: #666;
 	font-weight: lighter;
@@ -126,7 +126,7 @@ h1 {
 	z-index: 2;
 }
 
-.card-image {
+.card-img {
 	height: 180px;
 	position: relative;
 	z-index: 2;
